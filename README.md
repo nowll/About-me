@@ -20,7 +20,8 @@ Alogrithm And Programming
 
 Data structures (Still on going)
 
-Contact me
+### Contact me
+
 Email: samuelcaesar704@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowll&show_icons=true&theme=apprentice)
