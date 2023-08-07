@@ -8,7 +8,7 @@ I'm a computer science student at Binus University with a passion for all things
 
 ### Technologies i use
 
-Programming langguage : C, Javascript, Python, PHP.
+Programming langguage : C, Javascript, Python, PHP, Java.
 
 Frameworks : Laravel.
 
@@ -18,7 +18,13 @@ Tools : Git, Vscode, Clion, PyCharm.
 
 Alogrithm And Programming
 
-Data structures (Still on going)
+Data structures
+
+Database Management System
+
+Computer Networks
+
+Object Oriented Programming
 
 ### Contact me
 
