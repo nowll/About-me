@@ -8,11 +8,11 @@ I'm a computer science student at Binus University with a passion for all things
 
 ### Technologies i use
 
-Programming langguage : C, Javascript, Python, PHP, Java.
+Programming langguage :Javascript, Go, Java.
 
-Frameworks : Laravel.
+Frameworks : Express.js.
 
-Tools : Git, Vscode, Clion, PyCharm.
+Tools : Git, Vscode.
 
 ### What i'm learning
 
